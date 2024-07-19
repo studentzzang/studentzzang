@@ -1,6 +1,6 @@
 # JES__STUDIO
 
-`DEVELOPING` : <img src="https://img.shields.io/badge/UNITY-#000000?style=flat-square&logo=unity&logoColor=#FFFFFF"/> <br>
+`DEVELOPING` : <img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/> <br>
 `WELL` :  <br>
 `STUDYING` :  <br>
 
