@@ -16,5 +16,5 @@
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/TenforFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/p5.jsED225D?style=flat-square&logo=p5.js&logoColor=FFFFFF"/>< br>
+<img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=FFFFFF"/>< br>
 </div>
