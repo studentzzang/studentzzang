@@ -1,7 +1,7 @@
 # Studentzzang, 장학생 / JES__STUDIO 🇰🇷
 
 <div aligin="center">
-  ``COMUNITY`` : <a href="https://steamcommunity.com/profiles/76561199671441944/games?tab=all"><img src="https://img.shields.io/badge/SteamWorks-071563?style=flat-square&logo=Steam&logoColor=FFFFFF"/></a>
+  *COMUNITY* : <a href="https://steamcommunity.com/profiles/76561199671441944/games?tab=all"><img src="https://img.shields.io/badge/SteamWorks-071563?style=flat-square&logo=Steam&logoColor=FFFFFF"/></a>
   <a href="https://www.instagram.com/zzangeszz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
   <a href="https://velog.io/@jes/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a>
   <br> <br>
