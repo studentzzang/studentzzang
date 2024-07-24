@@ -1,10 +1,10 @@
 # Studentzzang, 장학생 / JES__STUDIO 🇰🇷
 <div align=center> 
-  <h2>Steamworks</h2>  
+  <h3>Steamworks</h3>  
   <a href="https://steamcommunity.com/profiles/76561199671441944/games?tab=all"><img src="https://img.shields.io/badge/SteamWorks-071563?style=for-the-badge&logo=Steam&logoColor=FFFFFF"/></a> <br>
-  <h2>Instagram</h2>
+  <h3>Instagram</h3>
   <a href="https://www.instagram.com/zzangeszz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a> <br>
-  <h2>Velog</h2>
+  <h3>Velog</h3>
   <a href="https://velog.io/@jes/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF"/></a> <br>
   <br> <br>
 </div>
@@ -21,4 +21,6 @@
  <img src="https://img.shields.io/badge/TenforFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF"/>
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/>
  <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF"/> <br>
+
+ ![](https://github-readme-stats.vercel.app/api?username=studentzzang&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
