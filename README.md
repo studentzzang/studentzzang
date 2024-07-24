@@ -22,5 +22,6 @@
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/>
  <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF"/> <br>
 
- ![](https://github-readme-stats.vercel.app/api?username=studentzzang&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=studentzzang&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=studentzzang&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
