@@ -1,8 +1,8 @@
 # Studentzzang, 장학생 / JES__STUDIO 🇰🇷
 
 <div align=center>
-  <h2>Hi. I am student zzang</h2>
-  <p>I'm always learning. I am a student forever.</p> <br>
+  <h3>Hi. I am student zzang</h3>
+  <p>I'm always learning. I am a student forever.</p>
   <p>저는 언제나 배우는, 영원한 학생 장(씨)학생입니다.</p> <br>
     
   <h3>Contact Me ( Click! )</h3> 
