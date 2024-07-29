@@ -1,9 +1,9 @@
 # Studentzzang, 장학생 / JES__STUDIO 🇰🇷
 
 <div align=center>
-  <h3>Hi. I am student zzang</h3>
-  <h5>I'm always learning. I am a student forever.</h5>
-  <h5>저는 언제나 배우는, 영원한 학생 장(씨)학생입니다.</h5>
+  <h2>Hi. I am student zzang</h2>
+  <p>I'm always learning. I am a student forever.</p> <br>
+  <p>저는 언제나 배우는, 영원한 학생 장(씨)학생입니다.</p> <br>
     
   <h3>Contact Me ( Click! )</h3> 
   <a href="https://steamcommunity.com/profiles/76561199671441944/games?tab=all"><img src="https://img.shields.io/badge/SteamWorks-071563?style=for-the-badge&logo=Steam&logoColor=FFFFFF"/></a>
