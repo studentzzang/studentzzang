@@ -1,10 +1,14 @@
 # Studentzzang, 장학생 / JES__STUDIO 🇰🇷
+
+<h4>Hi. I am student zzang</h4>
+<h4>안녕하세요. 장학생입니다.</h4>
+
 <div align=center>
-  <h3>Contact Me</h3> 
+  <h3>Contact Me ( Click! )</h3> 
   <a href="https://steamcommunity.com/profiles/76561199671441944/games?tab=all"><img src="https://img.shields.io/badge/SteamWorks-071563?style=for-the-badge&logo=Steam&logoColor=FFFFFF"/></a>
   <a href="https://www.instagram.com/zzangeszz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
   <a href="https://velog.io/@jes/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF"/></a>
-  <a href="[https://velog.io/@jes/posts](https://www.youtube.com/channel/UCG5vHeiRfUF7_v1OGZXzpTg)"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=FFFFFF"/></a>
+  <a href="https://www.youtube.com/channel/UCG5vHeiRfUF7_v1OGZXzpTg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=FFFFFF"/></a>
   <br> <br>
 
   
