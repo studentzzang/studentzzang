@@ -7,7 +7,7 @@
   <h3>Contact Me ( Click! )</h3> 
   <a href="https://steamcommunity.com/profiles/76561199671441944/games?tab=all"><img src="https://img.shields.io/badge/SteamWorks-071563?style=for-the-badge&logo=Steam&logoColor=FFFFFF"/></a>
   <a href="https://www.instagram.com/zzangeszz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
-  <a href="https://studentzzang.wordpress.com/"><img src="https://img.shields.io/badge/WordPress-#21759B?style=for-the-badge&logo=WordPress&logoColor=FFFFFF"/></a>
+  <a href="https://studentzzang.wordpress.com/"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=FFFFFF"/></a>
   <a href="https://www.youtube.com/channel/UCG5vHeiRfUF7_v1OGZXzpTg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=FFFFFF"/></a>
   <br> <br>
 
