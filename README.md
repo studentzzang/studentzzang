@@ -12,7 +12,7 @@
   <br> <br>
 
   <h3>Project</h3>
-  <img src="https://img.shields.io/badge/SteamWorks-071563?style=for-the-badge&logo=Steam&logoColor=FFFFFF"/> Drop it! Jelly Man
+  <img src="https://img.shields.io/badge/Steam-071563?style=for-the-badge&logo=Steam&logoColor=FFFFFF"/> Drop it! Jelly Man
   
   <h3>Developing</h3>
   <a><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=FFFFFF"></a> 
