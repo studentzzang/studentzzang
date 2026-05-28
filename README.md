@@ -2,7 +2,7 @@
 <img alt="image" src="https://github.com/user-attachments/assets/f3b99fec-e7c4-4a62-a068-46f8f2fe0694" width="380"/>
 
 <div>
-  <p포트폴리오 뭉탱이</p> 
+  <p>포트폴리오 뭉탱이</p> 
   <h3><img src="https://github.com/user-attachments/assets/c69b7b4b-441f-4a04-898d-881d8584dbfb" height="22" width="22"/>  Contact Me ( Click! )</h3> 
   <a href="https://steamcommunity.com/profiles/76561199671441944/games?tab=all"><img src="https://img.shields.io/badge/SteamWorks-071563?style=for-the-badge&logo=Steam&logoColor=FFFFFF"/></a>
   <a href="https://www.instagram.com/zzangeszz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
